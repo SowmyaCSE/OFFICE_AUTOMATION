@@ -91,12 +91,15 @@ extract_url_pdf(input_url="https://www.icai.org/post.html?post_id=17843")
 # In[6]:
 
 
-extract_url_pdf(input_url="https://cbic-gst.gov.in/central-tax-notifications.html")
+extract_url_pdf(input_url="https://vswsonline.ap.gov.in/#/payment-receipt?id=RMCG240809030205&department=RV&type=ReIssuanceCertificateNew&transactionID=TRMCG240809030205&from=transaction")
 
 # https://cbic-gst.gov.in/central-tax-notifications.html
 
 
-# In[ ]:
+# In[ ]:https://vswsonline.ap.gov.in/#/payment-receipt?id=RMCG240809030205&department=RV&type=ReIssuanceCertificateNew&transactionID=TRMCG240809030205&from=transaction
+
+
+
 
 
 
